@@ -4,9 +4,7 @@ My name is Mateusz, I'm an electrical engineer with passion for programming. I c
 
 I am a fonder of a small game studio called 4WardGames, we are in process of working on our first games in Unity using C#. I also create games and small software on my own in my free time. I have basic knowledge in programming languages such as C#, C++ and Python. Among the features I have created so far are world generators, mesh creation and edition in script, environment controllers, player controllers, player inventory systems and sound controllers using Unity engine. In addition I am a musician so I know many things about music production, recording and editing.
 
-I am looking for opportunities to learn new things from interesting people and participate in all kinds of projects. I am most interested in simulating digital worlds through creation and simulating all sorts of interactions.
-
-I am currently learning basics of programming through courses (currently Harvard's CS50).
+Despite knowing that my coding is not on high level yet I still learn and enjoy every part of it. I am looking for opportunities to learn new things from interesting people and participate in all kinds of projects. I am most interested in simulating digital worlds through creation and simulating all sorts of interactions. I am currently learning basics of programming through courses (currently Harvard's CS50).
 
 If you are interested in cooperating with me feel free to contact me! :)
 
